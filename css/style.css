@@ -9,6 +9,7 @@
 header {
   background-color: aqua;
   background-image: url("../img/pattern.png");
+  background-size: 350px;
 }
 
 .container {
@@ -22,3 +23,22 @@ header {
 }
 
 /*HEADER end*/
+
+/*MAIN start*/
+h1 {
+  font-size: 46px;
+}
+
+.author {
+  font-size: 20px;
+}
+
+.author span {
+  color: lightblue;
+}
+
+.author,
+.date {
+  color: gray;
+}
+/*MAIN end*/
