@@ -74,6 +74,7 @@ table {
 table th {
   background-color: blue;
   color: white;
+  text-align: left;
 }
 
 table .textsize {
@@ -84,3 +85,27 @@ table .textsize {
   background-color: lightblue;
 }
 /*MAIN end*/
+
+/*Footer start*/
+h3 {
+  color: grey;
+  margin-top: 20px;
+}
+
+.imgcontainer {
+  font-size: 20px;
+  margin-top: 20px;
+  height: 200px;
+  width: 280px;
+  color: white;
+}
+
+#monitor {
+  background-image: url("../img/monitor.jpg");
+}
+
+#graph {
+  background-image: url("../img/graph.jpg");
+}
+
+/*FOOTER end*/
