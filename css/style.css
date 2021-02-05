@@ -4,17 +4,24 @@
 }
 /*RESET end*/
 
+/*Common start*/
+.container {
+  width: 1024px;
+  margin: auto;
+}
+
+.highlight {
+  background-color: lightcoral;
+}
+
+/*Common end*/
+
 /*HEADER start*/
 
 header {
   background-color: aqua;
   background-image: url("../img/pattern.png");
   background-size: 350px;
-}
-
-.container {
-  width: 1024px;
-  margin: auto;
 }
 
 .logo {
@@ -40,5 +47,22 @@ h1 {
 .author,
 .date {
   color: gray;
+}
+
+.tim-img {
+  margin-top: 15px;
+}
+
+.photocredits {
+  font-size: 12px;
+}
+
+.articlecontent {
+  margin-top: 20px;
+}
+
+.list {
+  font-size: 15px;
+  margin-top: 20px;
 }
 /*MAIN end*/
