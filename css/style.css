@@ -4,7 +4,21 @@
 }
 /*RESET end*/
 
-.back-logo {
-  background-color: red;
-  height: 120px;
+/*HEADER start*/
+
+header {
+  background-color: aqua;
+  background-image: url("../img/pattern.png");
 }
+
+.container {
+  width: 1024px;
+  margin: auto;
+}
+
+.logo {
+  height: 50px;
+  margin-top: 73px;
+}
+
+/*HEADER end*/
