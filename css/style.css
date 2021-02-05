@@ -1,0 +1,10 @@
+/*RESET*/
+* {
+  margin: 0;
+}
+/*RESET end*/
+
+.back-logo {
+  background-color: red;
+  height: 120px;
+}
