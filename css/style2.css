@@ -1,0 +1,121 @@
+/*RESET*/
+* {
+  margin: 0;
+}
+/*RESET end*/
+
+/*Common start*/
+.container {
+  width: 1024px;
+  margin: auto;
+}
+
+.highlight {
+  background-color: #f0e68c;
+}
+
+/*Common end*/
+
+/*HEADER start*/
+body {
+  background-color: rgba(143, 188, 143, 0.3);
+}
+header {
+  background-color: aqua;
+  background-image: url("../img/back1.jpg");
+  background-size: 350px;
+  height: 200px;
+}
+
+.logo {
+  height: 50px;
+  margin-top: 73px;
+}
+
+/*HEADER end*/
+
+/*MAIN start*/
+h1 {
+  font-size: 46px;
+}
+
+.author {
+  font-size: 20px;
+}
+
+.author span {
+  color: #008080;
+}
+
+.author,
+.date {
+  color: gray;
+}
+
+.tim-img {
+  margin-top: 15px;
+}
+
+.photocredits {
+  font-size: 12px;
+}
+
+.articlecontent {
+  margin-top: 20px;
+}
+
+.list {
+  font-size: 15px;
+  margin-top: 20px;
+}
+
+table {
+  margin-top: 20px;
+  border-spacing: 0;
+}
+table td {
+  background-color: rgba(100, 149, 237, 0.3);
+}
+
+table th {
+  background-color: #4169e1;
+  color: white;
+  text-align: left;
+}
+
+table .textsize {
+  width: 50%;
+}
+
+.odd {
+  background-color: lightskyblue;
+}
+/*MAIN end*/
+
+/*Footer start*/
+footer {
+  background-color: rgba(0, 128, 128, 0.2);
+}
+
+h3 {
+  color: cadetblue;
+  margin-top: 20px;
+}
+
+.imgcontainer {
+  font-size: 20px;
+  margin-top: 20px;
+  height: 200px;
+  width: 280px;
+  color: white;
+}
+
+#monitor {
+  background-image: url("../img/monitor.jpg");
+}
+
+#graph {
+  background-image: url("../img/graph.jpg");
+}
+
+/*FOOTER end*/
