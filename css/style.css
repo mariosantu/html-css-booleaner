@@ -65,4 +65,22 @@ h1 {
   font-size: 15px;
   margin-top: 20px;
 }
+
+table {
+  margin-top: 20px;
+  border-spacing: 0;
+}
+
+table th {
+  background-color: blue;
+  color: white;
+}
+
+table .textsize {
+  width: 50%;
+}
+
+.odd {
+  background-color: lightblue;
+}
 /*MAIN end*/
