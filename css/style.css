@@ -11,7 +11,7 @@
 }
 
 .highlight {
-  background-color: lightcoral;
+  background-color: #ffdab9;
 }
 
 /*Common end*/
@@ -72,7 +72,7 @@ table {
 }
 
 table th {
-  background-color: blue;
+  background-color: #4169e1;
   color: white;
   text-align: left;
 }
@@ -82,7 +82,7 @@ table .textsize {
 }
 
 .odd {
-  background-color: lightblue;
+  background-color: lightskyblue;
 }
 /*MAIN end*/
 
